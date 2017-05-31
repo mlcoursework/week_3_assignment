@@ -1,2 +1,3 @@
 # week_3_assignment
-Week 3 Assignment for ML course
+Week 3 Assignment for ML course <br>
+Topic: Lasso 
